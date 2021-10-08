@@ -1,5 +1,5 @@
-#TutoringForAll
-#Native Android Application
+## TutoringForAll
+# Native Android Application
 
 Creating an app to help tutors reach more audience.
 
