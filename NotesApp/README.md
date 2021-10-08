@@ -1,5 +1,6 @@
-#Notesapp
-##Android Application
+# Notesapp
+
+## Android Application
 
 Create an Android Notes Taking Application including the following features:
 - Add a note
