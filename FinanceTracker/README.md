@@ -1,6 +1,6 @@
 # FINANCE TRACKER APP
 
-Create an Android Application for budget handling. Aim is to compile details for all the necessary details and make the user aware about his monthly budget.
+Create an Android Application for budget handling. Aim is to compile the necessary details and make the user aware about his monthly budget.
 
 ## FEATURES:
 
