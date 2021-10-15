@@ -10,15 +10,15 @@ The APP has some basic functionalities like: ⏬
 3) India's Covid-19 cases,recoverd,deaths etc. 🚩
 4) India's state and city Covid-19 cases,recoverd,deaths etc. 🚩
 5) A pie chart for viewing global Covid-19 cases,recoverd,deaths etc. 📊
-6) All time global stat. 🌍
+6) All time global stats. 🌍
 7) Good & working api for data visualisation. 📅
-8) A nice good looking ui.
+8) A nice good looking ui & ux.
 
 
 ## Developer 👨‍💻
 
 <table>
-<td align="center"><a href="https://github.com/myselfdeepdas"><img src="https://avatars.githubusercontent.com/u/73328144?v=4" width="80px;" alt="Deep Das"/><br /><sub><b>Deep Das</b></a><br /><sub><b>@myselfdeepdas</b><br /><a href="https://github.com/theBatman07" title="Code"</a></td>
+<td align="center"><a href="https://github.com/myselfdeepdas"><img src="https://avatars.githubusercontent.com/u/73328144?v=4" width="81px;" alt="Deep Das"/><br /><sub><b>Deep Das</b></a><br /><sub><b>@myselfdeepdas</b><br /><a href="https://github.com/theBatman07" title="Code"</a></td>
 </table>
 
 
