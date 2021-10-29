@@ -45,6 +45,7 @@
 <li>Mentor will review it and let you know if any changes are required and get it merged.</li>
 <li>Only the existing issues can be worked upon, contributors are not allowed to open any issues of their own.</strong></li>
 <li>Do-Follow Code of Conduct.</li>
+<li>Do not just copy paste the code here.</li>
 <li>Happy Coding 💻</li>
 </ul>
 
