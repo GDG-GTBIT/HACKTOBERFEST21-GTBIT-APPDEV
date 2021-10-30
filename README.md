@@ -22,7 +22,7 @@
 
 <h1 align="center" >💻 GDSC-GTBIT HACKTOBERFEST21-APPDEV 💻</h1>
 
-<h3>Hello Everyone 👋🏻 Glad to see you all here !! I hope everyone is eager to give their best contributions. This project aims to have a collection of innovative projects related to App development in a single place. Not only Projects, this repo aims to collect documents ( notes ) & provide references for beginners to learn so as to provide a one-stop solution for everyone to learn and upskill!
+<h3>Hello Everyone 👋🏻 Glad to see you all here !!! I hope everyone is eager to give their best contributions. This project aims to have a collection of innovative projects related to App development in a single place. Not only Projects, this repo aims to collect documents ( notes ) & provide references for beginners to learn so as to provide a one-stop solution for everyone to learn and upskill!
 
 <h1 align="center"> Technologies Included </h1>
 <div align="center"><img alt="JAva" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img alt="KOTLIN" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> 
