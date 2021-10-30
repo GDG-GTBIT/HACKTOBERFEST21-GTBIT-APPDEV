@@ -5,7 +5,6 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -40,7 +39,35 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         
-        title: Text(widget.title),
+        title: Text('Class Monitor App'),
+         actions: <Widget>[
+            actions: <Widget>[
+    IconButton(
+      icon: Icon(
+        Icons.back,
+        color: Colors.white,
+      ),
+      onPressed: () {
+       
+      },
+    )
+  ],
+    IconButton(
+      icon: Icon(
+        Icons.settings,
+        color: Colors.white,
+      ),
+      onPressed: () {
+       
+      },
+    ),
+           IconButton(
+           icon: Icon(
+           Icons.home,
+           color: Colors.white),
+           onPressed: (){},),
+  ],
+        
       ),
       body: Center(
         
